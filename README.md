@@ -21,3 +21,5 @@ In March 2019 we [provided data visualisation to illustrate a story on police se
 
 * Column chart: Hospital admissions for assaults by sharp objects, 2013/14-2017/18
 * Bar chart: Hospital admissions for assaults by sharp objects by region of patient, 2017/18
+
+*You can find all repositories for stories related to knife crime [tagged 'knifecrime'](https://github.com/search?q=topic%3Aknifecrime+org%3ABBC-Data-Unit&type=Repositories)* 
